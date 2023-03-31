@@ -27,7 +27,7 @@ status-website:
   introMessage: Riatlas services status page
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
