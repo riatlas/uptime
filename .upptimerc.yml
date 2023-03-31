@@ -19,7 +19,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.riatlas.net
+  cname: status.static.riatlas.net
   #baseUrl: /uptime
   logoUrl: https://link.storjshare.io/s/jxmmgw3s6h63lokbc3suxyk4o3oa/public-assets/logo-menu.png?download=1
   name: Riatlas Status Page
