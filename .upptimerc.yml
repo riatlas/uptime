@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.static.riatlas.net
   #baseUrl: /uptime
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/riatlas/uptime/master/assets/Logo-Riatlas.png
   name: Riatlas Status Page
   introTitle: "**RiAtlas** an healthcare company"
