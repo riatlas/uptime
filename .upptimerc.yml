@@ -1,26 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: riatlas-admin # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Archetipo CWA
+    url: https://cwa.arketipo.riatlas.net
+  - name: CWA (demo)
+    url: https://cwa-dev.riatlas.it
+  - name: Epicare
+    url: https://epicare.riatlas.it
+  - name: Nemolab
+    url: https://nia.nemolab.riatlas.it
+  - name: Novartis CWA
+    url: https://cwa.novartis.riatlas.it
+  - name: Novartis CWA (dev)
+    url: https://cwa.novartis.riatlas.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: riatlas.it
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://link.storjshare.io/s/jxmmgw3s6h63lokbc3suxyk4o3oa/public-assets/logo-menu.png?download=1
+  name: Riatlas Status Page
+  introTitle: "**RiAtlas** an healthcare company"
+  introMessage: Riatlas services status page
   navbar:
     - title: Status
       href: /
