@@ -1,7 +1,7 @@
 # Change these first
 owner: riatlas-admin # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-
+user-agent: riatlas-admin
 sites:
   - name: Archetipo CWA
     url: https://cwa.arketipo.riatlas.net
