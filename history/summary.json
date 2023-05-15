@@ -122,19 +122,19 @@
     "url": "https://cwa.novartis.riatlas.net",
     "icon": "https://icons.duckduckgo.com/ip3/cwa.novartis.riatlas.net.ico",
     "slug": "novartis-cwa-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 404,
-    "timeDay": 418,
-    "timeWeek": 444,
-    "timeMonth": 393,
+    "timeDay": 420,
+    "timeWeek": 442,
+    "timeMonth": 394,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-05-15": 0
+      "2023-05-15": 7
     }
   }
 ]
