@@ -4,17 +4,17 @@ repo: uptime # The name of this repository
 user-agent: riatlas-admin
 sites:
   - name: Archetipo CWA
-    url: https://cwa.arketipo.riatlas.net
-  - name: CWA (demo)
-    url: https://cwa-dev.riatlas.it
+    url: $CWA_ARKETIPO
+  - name: CWA (dev)
+    url: CWA_DEV
   - name: Epicare
-    url: https://epicare.riatlas.it
+    url: $EPICARE
   - name: Nemolab
-    url: https://nia.nemolab.riatlas.it
+    url: $NEMOLAB
   - name: Novartis CWA
-    url: https://cwa.novartis.riatlas.it
+    url: $CWA_NOVARTIS
   - name: Novartis CWA (dev)
-    url: https://cwa.novartis.riatlas.net
+    url: $CWA_NOVARTIS_DEV
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
