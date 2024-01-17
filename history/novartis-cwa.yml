@@ -1,7 +1,7 @@
-url: https://cwa.novartis.riatlas.it
+url: $CWA_NOVARTIS
 status: up
 code: 200
-responseTime: 579
-lastUpdated: 2023-06-18T23:12:51.053Z
-startTime: Fri Mar 31 2023 12:57:50 GMT+0000 (Coordinated Universal Time)
+responseTime: 385
+lastUpdated: 2024-01-17T08:42:40.419Z
+startTime: 2023-03-31T12:57:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
