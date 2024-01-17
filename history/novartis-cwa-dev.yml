@@ -1,7 +1,7 @@
 url: $CWA_NOVARTIS_DEV
-status: up
-code: 200
-responseTime: 536
-lastUpdated: 2024-01-17T21:22:55.834Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-17T22:00:31.039Z
 startTime: 2023-03-31T12:57:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
