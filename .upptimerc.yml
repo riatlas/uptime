@@ -6,7 +6,7 @@ sites:
   - name: Archetipo CWA
     url: $CWA_ARKETIPO
   - name: CWA (dev)
-    url: CWA_DEV
+    url: $CWA_DEV
   - name: Epicare
     url: $EPICARE
   - name: Nemolab
