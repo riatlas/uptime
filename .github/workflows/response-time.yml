@@ -33,7 +33,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Setup WARP
-        uses: fscarmen/warp-on-actions@v2
+        uses: fscarmen/warp-on-actions@v1.0
       - name: Update response time
         uses: upptime/uptime-monitor@v1.36.1
         with:
