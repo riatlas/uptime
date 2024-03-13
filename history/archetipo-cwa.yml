@@ -1,7 +1,7 @@
 url: $CWA_ARKETIPO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-13T10:42:23.367Z
+status: up
+code: 200
+responseTime: 341
+lastUpdated: 2024-03-13T10:54:31.159Z
 startTime: 2023-03-31T12:57:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
