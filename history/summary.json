@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.56%",
-    "time": 623,
-    "timeDay": 374,
-    "timeWeek": 529,
+    "time": 622,
+    "timeDay": 430,
+    "timeWeek": 532,
     "timeMonth": 484,
-    "timeYear": 627,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2024-03-13": 12,
       "2023-05-05": 84,
@@ -38,9 +38,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 620,
-    "timeDay": 477,
-    "timeWeek": 649,
-    "timeMonth": 588,
+    "timeDay": 627,
+    "timeWeek": 668,
+    "timeMonth": 594,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2024-03-13": 12,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 538,
-    "timeDay": 526,
-    "timeWeek": 652,
-    "timeMonth": 636,
-    "timeYear": 539,
+    "time": 537,
+    "timeDay": 424,
+    "timeWeek": 636,
+    "timeMonth": 638,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2024-02-10": 17,
       "2023-05-12": 88
@@ -80,13 +80,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 482,
-    "timeDay": 442,
-    "timeWeek": 592,
-    "timeMonth": 533,
-    "timeYear": 482,
-    "dailyMinutesDown": {
-      "2023-04-05": 8
-    }
+    "timeDay": 403,
+    "timeWeek": 605,
+    "timeMonth": 530,
+    "timeYear": 481,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Novartis CWA",
@@ -99,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 562,
-    "timeDay": 429,
-    "timeWeek": 1240,
-    "timeMonth": 659,
-    "timeYear": 562,
+    "time": 561,
+    "timeDay": 382,
+    "timeWeek": 1247,
+    "timeMonth": 660,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2023-04-29": 97
     }
