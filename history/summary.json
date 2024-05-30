@@ -83,19 +83,19 @@
     "url": "$CWA_NOVARTIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "novartis-cwa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 368,
-    "timeWeek": 441,
-    "timeMonth": 521,
-    "timeYear": 552,
+    "time": 554,
+    "timeDay": 386,
+    "timeWeek": 439,
+    "timeMonth": 518,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-05-30": 0
+      "2024-05-30": 12
     }
   }
 ]
