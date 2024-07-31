@@ -11,8 +11,8 @@ sites:
     url: $EPICARE
   - name: Nemolab
     url: $NEMOLAB
-  - name: Novartis CWA
-    url: $CWA_NOVARTIS
+ # - name: [REDACTED] Novartis CWA
+ #   url: $CWA_NOVARTIS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
