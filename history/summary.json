@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 551,
-    "timeWeek": 446,
+    "timeDay": 314,
+    "timeWeek": 406,
     "timeMonth": 411,
-    "timeYear": 450,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2024-03-13": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 504,
-    "timeWeek": 463,
-    "timeMonth": 506,
-    "timeYear": 554,
+    "time": 555,
+    "timeDay": 379,
+    "timeWeek": 429,
+    "timeMonth": 505,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-03-13": 12
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 553,
-    "timeDay": 694,
-    "timeWeek": 818,
-    "timeMonth": 749,
+    "time": 554,
+    "timeDay": 750,
+    "timeWeek": 815,
+    "timeMonth": 750,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-01-03": 407
@@ -66,13 +66,13 @@
     "slug": "nemolab",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "76.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.69%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.37%",
-    "time": 557,
-    "timeDay": 494,
-    "timeWeek": 3065,
+    "time": 556,
+    "timeDay": 399,
+    "timeWeek": 3060,
     "timeMonth": 1271,
     "timeYear": 585,
     "dailyMinutesDown": {
