@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 549,
-    "timeWeek": 379,
-    "timeMonth": 395,
+    "timeDay": 387,
+    "timeWeek": 383,
+    "timeMonth": 394,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2024-03-13": 12
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 644,
-    "timeWeek": 422,
-    "timeMonth": 483,
-    "timeYear": 546,
+    "timeDay": 402,
+    "timeWeek": 435,
+    "timeMonth": 480,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2024-03-13": 12
     }
@@ -46,15 +46,15 @@
     "slug": "epicare",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "76.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.61%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.86%",
-    "time": 556,
-    "timeDay": 812,
-    "timeWeek": 668,
-    "timeMonth": 731,
-    "timeYear": 571,
+    "time": 557,
+    "timeDay": 875,
+    "timeWeek": 704,
+    "timeMonth": 734,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-02-19": 341,
       "2025-01-03": 407
@@ -72,8 +72,8 @@
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.37%",
     "time": 554,
-    "timeDay": 677,
-    "timeWeek": 442,
+    "timeDay": 409,
+    "timeWeek": 454,
     "timeMonth": 1262,
     "timeYear": 583,
     "dailyMinutesDown": {
