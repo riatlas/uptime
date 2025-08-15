@@ -3,14 +3,14 @@ owner: riatlas-admin # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 user-agent: riatlas-admin
 sites:
-  - name: Riatlas Sito Web
+  - name: Riatlas (Web site)
     url: https://riatlas.it
   - name: Archetipo CWA
     url: $CWA_ARKETIPO
   - name: CWA (dev)
     url: $CWA_DEV
-  - name: Epicare
-    url: $EPICARE
+  #- name: Epicare
+  #  url: $EPICARE
   - name: Nemolab
     url: $NEMOLAB
  # - name: [REDACTED] Novartis CWA
