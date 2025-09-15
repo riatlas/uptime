@@ -4,18 +4,19 @@
     "url": "https://riatlas.it",
     "icon": "https://icons.duckduckgo.com/ip3/riatlas.it.ico",
     "slug": "riatlas-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 2826,
-    "timeDay": 3723,
+    "timeDay": 4988,
     "timeWeek": 3790,
     "timeMonth": 2826,
     "timeYear": 2826,
     "dailyMinutesDown": {
+      "2025-09-15": 0,
       "2025-09-14": 83,
       "2025-09-10": 19
     }
