@@ -1,7 +1,7 @@
 url: https://riatlas.it
-status: up
-code: 200
-responseTime: 824
-lastUpdated: 2025-10-09T23:11:05.657Z
+status: down
+code: 502
+responseTime: 2556
+lastUpdated: 2025-10-10T19:55:46.466Z
 startTime: 2025-08-15T17:19:02.224Z
 generator: Upptime <https://github.com/upptime/upptime>
