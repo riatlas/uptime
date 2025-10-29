@@ -5,6 +5,10 @@ user-agent: riatlas-admin
 sites:
   - name: Riatlas (Web site)
     url: https://riatlas.it
+  - name: Registry
+    url: $DOCKER_REGISTRY
+  - name: Git
+    url: $GIT
   - name: Archetipo CWA
     url: $CWA_ARKETIPO
   - name: CWA (dev)
