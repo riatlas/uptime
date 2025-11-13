@@ -1,7 +1,7 @@
 url: $DOCKER_REGISTRY
 status: up
 code: 200
-responseTime: 651
-lastUpdated: 2025-11-12T23:12:47.900Z
+responseTime: 659
+lastUpdated: 2025-11-13T23:12:28.670Z
 startTime: 2025-10-29T10:45:22.879Z
 generator: Upptime <https://github.com/upptime/upptime>
