@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/riatlas.it.ico",
     "slug": "riatlas-web-site",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 2128,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1085,
-    "timeYear": 2077,
+    "timeMonth": 1079,
+    "timeYear": 2070,
     "dailyMinutesDown": {
       "2026-08-12": 197,
       "2026-08-11": 166,
@@ -46,8 +46,7 @@
       "2025-11-03": 84,
       "2025-10-10": 118,
       "2025-10-08": 25,
-      "2025-09-22": 16,
-      "2025-09-15": 12
+      "2025-09-22": 16
     }
   },
   {
@@ -64,7 +63,7 @@
     "time": 590,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 581,
+    "timeMonth": 574,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-05-29": 197,
@@ -93,7 +92,7 @@
     "time": 873,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 713,
+    "timeMonth": 704,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2026-08-13": 157,
@@ -122,7 +121,7 @@
     "time": 459,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 645,
+    "timeMonth": 649,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-06": 19,
@@ -145,8 +144,8 @@
     "time": 512,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 698,
-    "timeYear": 527,
+    "timeMonth": 695,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2025-11-06": 18,
       "2025-11-04": 301
@@ -158,18 +157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nemolab",
     "status": "down",
-    "uptime": "96.12%",
+    "uptime": "96.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.82%",
+    "uptimeYear": "87.55%",
     "time": 496,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2026-09-14": 200,
+      "2026-09-15": 202,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
